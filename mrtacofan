@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="uk">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale-1.0">
+  <title>Книжковий Рай</title>
+</head>
+<body>
+  <main class="section-main">
+
+  </main>
+
+  <section class="second-section">
+
+  </section>
+
+  <section class="third-section">
+
+  </section>
+
+  <footer class="footer">
+
+  </footer>
+</body>
+</html>
+
+<img class="section-main-logo" src="logo.png" alt="логотип">
+<h1 class="section-main-title">Книжковий Рай</h1>
+<h2 class="section-main-subtitle">Відкрити для себе наступну чудову книгу</h2>
+<button class="section-main-button" type="button">Дізнатися більше</button>
+
+<img src="library.jpeg" alt="зображення бібліотеки" class="second-section-img">
+<div class="second-section-info">
+
+</div>
+
+<p class="second-section-name"><span class="second-section-name2">ІВАН ІВАНЕНКО</span> - Засновник Книжного Раю</p>
+
+<h3 class="section-subtitle">РЕКОМЕНДОВАНІ КНИГИ</h3>
+<h3 class=section-title>Наша колекцыя</h3>
+<div class="third-section-books">
+
+<div class="third-section-book">
+  <img src="book1.png" alt="книга 1" class="book-img">
+  <h4 class="bool-title">Маленький принц</h4>
+  <p class="book-author">Антуан де Сент Екзюпері</p>
+</div>
+
+<h3 class="section-title footer-title">Приєднуйтесь до нашої спільности</h3>
+<p class="footertext"><span class+"footer-text-main">Підпишіться на нашу розсилку, щоб отримувати останні новини про новинки, ексклюзивні прозиції та багато іншого.</span><br> Для запитів, будь ласка, зв'язіться з нами за номером (+380) 123-456-789</p>
+
+<form action="" class="footer-form">
+  <p class="form-title>І'мя</p>
+  <input type="text" id="name" class="form-input">
+  <p class="form-title>Електронна пошта</p>
+  <input type="email" id="email" class="form-input">
+  <p class="form-title>Телефог</p>
+  <input type="tel" id="phone" class="form-input">
+  <button class="footer-button">Підпитатися</buttom>
+</form>
